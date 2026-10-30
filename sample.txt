@@ -1,0 +1,3 @@
+Welcome Developers!
+Let's master Advanced Python.
+Today's topic is File I/O operations.
